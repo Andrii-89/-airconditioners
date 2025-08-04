@@ -100,7 +100,7 @@ button:focus { outline: none; }
 .tm-site-description { font-size: 1.4rem; }
 
 .tm-site-header {
-	background: url('../img/header-02.jpg') no-repeat;
+	background: url('../img/header-02.png') no-repeat;
 	background-size: cover;
 	height: 300px;
 	padding: 60px 80px;
@@ -334,4 +334,5 @@ footer a:hover {
 		padding: 10px 15px;
 	}
 }
+
 
